@@ -11,3 +11,305 @@ ABH builds upon it's core resource, *Haelewyck, J. (1998). Clavis apocryphoru
 An ancient work may exist in more than one language (e.g. Aramaic and Greek). Within a language, the work may have multiple recensions, and each recension may have modern translations available in any number of other languages (e.g. English and German). To allow for the inclusion of as much information about each work as possible, we use the following JSON layout:
 
 ![alt text](https://github.com/readersresource/abh/blob/main/jsonLayout.png?raw=true)
+
+## List of Entries
+
+###  ADAM
+-  Vita Adae et Euac (Apocalypsis Moysi) -- 1i.
+-  Vita Adae et Euae (latine) -- 1ii.
+-  Vita Adae et Euae (slauice) -- 1iii.
+-  Paenitentia Adae (armeniace) -- 1iv.
+-  Vita Adae (georgice) -- 1v.
+-  Vita Adae (fragmenta coptica) -- 1vi.
+-  Vita Adae -- 2
+-  Testamentum Adae -- 3
+-  Testamentum protoplastorum -- 4
+-  Apocalypsis Adae (graece) -- 5
+-  Paenitentia Adae (graece) -- 6
+-  Apocalypses gnosticae Adae -- 7
+-  Euangelium Euae -- 8
+-  Liber de filiabus Adae -- 9
+-  De Adami compositions et nomine -- 10
+-  Caucrna Thesaurorum -- 11
+-  Apocalypsis Adae (NHC V,5) (sahidice) -- 12
+-  Historia seditionis Satanae (fragmentum copticum) -- 13
+-  Conflictus Adac et Euae cum Satana -- 14
+-  Liber Adami (fragmenta mandaea) -- 15
+-  Historia creationis et transgressionis Adae -- 16
+-  Historia expulsionis Adae e paradiso -- 17
+-  Historia paenitentiae Adae et Euae (armeniace) -- 18
+-  Dicta Adae ad Seth (armeniace) -- 19
+-  Mors Adae (armeniace) -- 20
+-  Adam. Fragmentum I (armeniace) -- 21
+-  Adam. Fragmentum II (armeniace) -- 22
+-  Adam. Fragmentum III (armeniace) -- 23
+-  Historia protoparentum, qui sunt Adam, filii nepotesque eius (armeniace) -- 24
+-  Epistula Adae ad Deum (armeniace) -- 25
+-  De casu Adae (armeniace)  -- 26
+-  De casu Adae et Euae et de incarnatione Christi (armeniace) -- 27
+-  Historia Adae et nepotum eius (armeniace) -- 28
+-  Adam. Historia I (armeniace) -- 29
+-  Adam. Historia II (armeniace) -- 30
+-  Quaestiones (armeniace) -- 31
+-  De sex millenariis (armeniace) -- 32
+-  De undecim aetatibus (armeniace) -- 33
+-  Aetas protoparentum (armeniace) -- 34
+-  Chronologia ab Adamo usque ad Salomonem (armeniace) -- 35
+-  Filii Adae (armeniace) -- 36
+-  De chirographo Adae (armeniace) -- 37
+-  Sethitae et Cainitae (armeniace) -- 38
+-  Eiectio Adae et Euae e paradiso (georgice) -- 39
+-  Creatio caeli et terrae (georgice) -- 40
+-  Reuelationes de creatione (georgice) -- 41
+-  Narratio de creatione (slauice) -- 42
+-  Creatio Adae (slauice) -- 43
+-  Tentatio Adae et Euae a Satanael (slauice) -- 44
+-  Homilia Adae ad Lazarum (slauice) -- 45
+###  POSTERI ADAE ET EVAE: CAIN - ABEL, ENOSH, HENOCH, LAMECH, NOE, SEM, CHAM SETH
+-  Vita Abel, auctore Symmacho (syriace) -- 46
+-  Historia occisionis Abel (fragmentum copticum) -- 47
+-  Historia Abel et Cain, filiorum Adae -- 48
+-  Abel (armeniace) -- 49
+-  Posteri Adae (armeniace) -- 50
+-  Paraphrasis Seth -- 51
+-  Prophetia Seth -- 52
+-  Liber apocryphus nomine Seth. Mons Victorialis -- 53
+-  Liber Seth syriacus -- 54
+-  Secundus Tractatus Magni Seth (NHC VII, 2) (coptice) -- 55
+-  Tres columnae Seth (NHC VII, 5) (coptice) -- 56
+- Intelligentia Noreae uxoris Seth (NHC IX, 2) (coptice) -- 57
+-  De euangelio Seth -- 58
+-  Liber Seth slauicus -- 59
+-  Qumran. Oratio Enosh (4Q369) (hebraice) -- 60
+-  Henoch aethiopicus -- 61
+-  Liber gigantum -- 62
+-  Liber Og gigantis -- 63
+-  Qumran. Dicta Michael (4Q529, 6Q23) (aramaice) -- 64
+-  Qumran. Oratio Michael (4Q471b) (hebraice) -- 65
+-  Henoch slauicus -- 66
+-  Henoch hebraicus -- 67
+-  Historia Henoch et Eliae (latine) -- 68
+-  Apocalypsis Henoch (syriace) -- 69
+-  Fragmenta coptica Henoch I (sahidice) -- 70
+-  Fragmenta coptica Henoch II (sahidice) -- 71
+-  Alius sermo de natiuitate Henoch (aethiopice) -- 72
+-  Visio Henoch (aethiopice)  -- 73
+-  Visio iusti Henoch (armeniace) -- 74
+-  Virtus Henoch (armeniace) -- 75
+-  Gigantes (armeniace) -- 76
+-  Ab Adamo usque ad diluuium (armeniace) -- 77
+-  De sacerdotio Methusalem, Nir et Melchisedech -- 78
+-  Qumran. Apocryphon Genesis (1Q20) (aramaice) -- 79
+-  Lamech (fragmentum slauicum) -- 80
+-  Filii Dei (armeniace) -- 81
+-  Qumran. Apocalypsis Noe (1Q19, 1Q19bis, 4Q534, 4Q535, 4Q536) (hebraice et aramaice) -- 82
+-  Qumran. Admonitio de diluuio (4Q370) (hebraice) -- 83
+-  Historia Noe (armeniace) -- 84
+-  Tractatus Sem (syriace) -- 85
+-  Paraphrasis Sem (NHC VII, 1) (coptice) -- 86
+-  Prophetia Cham -- 87
+###  ABRAHAM - ISAAC - JACOB
+-  Testamentum Abrahae -- 88
+-  Apocalypsis Abrahae (slauice) -- 89
+-  De commoratione Abrahae et Sarae in Aegypto (aethiopice) -- 90
+-  Inquisitio Abrahae -- 91
+-  Qumran. Enarratio in patriarchis (4Q464) (hebraice) -- 92
+-  Apocryphon Loth -- 93
+-  Qumran. Apocryphon Melchisedech (11Q13) (hebraice) -- 94
+-  Historia de Melchisedech -- 95
+-  Tractatus Melchisedech (NHC IX, I) (coptice) -- 96
+-  Liber Melchisedech (georgice) -- 97
+-  Testamentum Isaac -- 98
+-  Testamentum Jacob -- 99
+-  Testamentum Jacob (armeniace) -- 100
+-  Scala Jacob (Gradus Jacob) -- 101
+-  Scala Jacob (Climax Jacobi) (slauice) -- 102
+-  Oratio Jacob (graece) -- 103
+-  Apocryphon de Jacob et Joseph (graece) -- 104
+###  XII PATRIARCHAE
+-  Joseph et Aseneth -- 105
+-  Qumran. Apocryphon Joseph (2Q22, 4Q371, 4Q372, 4Q373) (hebraice) -- 106
+-  Oratio Joseph (fragmenta graeca in citationibus) -- 107
+-  Historia Joseph (fragmenta graeca) -- 108
+-  Historia Joseph (syriace) -- 109
+-  Legenda Joseph (fragmentum copticum) -- 110
+-  Historia apocrypha de Joseph (sahidice) -- 111
+-  Historia Joseph et fratrum eius (sahidice) -- 112
+-  Historia Joseph filii Jacob -- 113
+-  Historia Joseph filii Jacob (arabice) -- 114
+-  Historia Joseph (arabice) -- 115
+-  Dormitio Joseph filii Jacob (arabice) -- 116
+-  Mors Joseph (aethiopice) -- 117
+-  Testamentum XII patriarcharum -- 118
+-  Nomina uxorum patriarcharum -- 119
+-  Qumran. Testamentum Qahat (4Q542) (aramaice) -- 120
+-  Qumran. Visiones Amram (4Q543, 4Q544, 4Q545, 4Q546, 4Q547, 4Q548) (aramaice) -- 121
+###  MOYSES
+-  Qumran. Apocryphon Moysi (1Q22, 1Q29, 4Q375, 4Q376) (hebraice) -- 122
+-  Qumran. Apocryphon Moysi (4Q377) (hebraice) -- 123
+-  Qumran. Apocryphon Moysi ? (2Q21) (hebraice) -- 124
+-  Qumran. Pseudo-Moyses (4Q385a, 4Q387a, 4Q388a, 4Q389, 4Q390) (hebraice) -- 125
+-  Qumran. De Hur et Miriam (4Q549) (aramaice) -- 126
+-  Qumran. Apocryphon Pentateuchi (4Q368) (hebraice) -- 127
+-  Qumran. Oratio de traditione exodi et occupationis (4Q374) (hebraice) -- 128
+-  Jannes et Jambres -- 129
+-  Colloquium Moysi cum Deo -- 130
+-  Antiquitates biblicae (latine) -- 131
+-  Liber Jubilaeorum -- 132
+-  Eldad et Modad (fragmentum graecum in citatione) -- 133
+-  Assumptio Moysi -- 134
+-  Apocalypsis Moysi -- 135
+-  De uita et morte Moysi -- 136
+-  Narratio de Moyse et Josue (graece) -- 137
+-  Oratio Moysi (latine) -- 138
+-  Vita Moysi (arabice) -- 139
+-  Vita Moysi (armeniace) -- 140
+-  Arde'et et Acta Moysi (aethiopice) -- 141
+-  Mors Moysi (aethiopice) -- 142
+-  Mors Aaron (aethiopice) -- 143
+-  Liber Monas (graece) -- 144
+###  JOSUE - JUDICES
+-  Qumran. Psalmi Josue (4Q378, 4Q379) (hebraice) -- 145
+-  Masada. Apocryphon Josue (Masi I) (hebraice) -- 146
+-  Visio Kenaz (latine) -- 147
+-  Threnus Seilae filiae Jephtidis (latine) -- 148
+###  I-II SAMUEL — I-H REGES — I-II PARALIPOMENA
+-  Qumran. Visio Samuel (4Q160) (hebraice) -- 149
+-  Qumran. Apocryphon de libris Regnorum (6Q9) (hebraice) -- 150
+-  Qumran. Apocryphon Dauid ? (2Q22) (hebraice) -- 151
+-  Citharismus Dauid (latine) -- 152
+-  Dicta Gad uidentis (hebraice) -- 153
+-  Instructio Dauid ad Salomonem (arabice) -- 154
+-  Epistulae Salomonis ad reges Aegypti et Tyn (graece) -- 155
+-  De palatio Salomonis (arabice) -- 156
+-  Quaestiones reginac Saba ad Salomonem -- 157
+-  Paenitentia Salomonis (armeniace) -- 158
+-  Salomon et Saturnus -- 159
+-  Salomonis interdictio -- 160
+-  Epistula Salomonis ad Roboam de hygromantia (graece) -- 161
+-  Testamentum Salomonis ad Roboam filium suum -- 162
+-  Salomonis ultima concilia -- 163
+-  Mors Salomonis (arabice) -- 164
+-  Aphikia (arabice) -- 165
+-  Historia Rechabitarum -- 166
+-  Apocalypsis Eliae -- 167
+-  Apocalypsis Eliae hebraica -- 168
+-  Visio Eliae (latine) -- 169
+-  Historia Eliae prophetae (arabice) -- 170
+-  Historia Eliae prophetae et filii uiduae (arabice) -- 171
+-  Historia Eliae prophetae et ascensionis eius (arabice) -- 172
+-  Parua historia Eliae prophetae (armeniace) -- 173
+-  Qumran. Apocryphon Elisei (4Q481a) (hebraice) -- 174
+-  Sermo Elisei prophetae de peccatoribus (arabice) -- 175
+-  Sermo Elisei prophetae de necessitate purificationis (arabice) -- 176
+-  Testamentum Ezechiae -- 177
+-  Oratio Manasse -- 178
+###  ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM
+-  3 Esdrae  -- 179
+-  4 Esdrae  -- 180
+-  Confessio Esrae (latine) -- 181
+-  5 Esdrae -- 182
+-  6 Esdrae -- 183
+- i Apocalypsis Esdrae graeca  -- 184
+- ii Apocalypsis Sedrach (graece)  -- 184
+- iii Visio beati Esdrae (latine) -- 184
+-  Reuelatio Esdrae de qualitatibus anni  -- 185
+-  Apocalypsis Esdrae de regno Araborum -- 186
+-  Apocalypsis Esdrae aethiopica -- 187
+-  Quaestiones Esdrae de animabus (armeniace) -- 188
+-  Somnium Esdrae -- 189
+-  Historia Babylonis (slauice) -- 190
+-  Qumran. Proto-Esther (4Q550) (aramaice) -- 191
+-  Masada. Apocryphon Esther ? (Masim) (hebraice) -- 192
+-  Judith -- 193
+-  Qumran. Fragmenta Tobit (4Q196, 4Q197, 4Q198, 4Q199, 4Q200?, 4Q478?) (hebraice et aramaice) -- 194
+-  Historia ct Sapientia Ahiqar -- 195
+-  1 Maccabaeorum -- 196
+-  2 Maccabaeorum -- 197
+-  3 Maccabaeorum -- 198
+-  4 Maccabaeorum -- 199
+-  5 Maccabaeorum -- 200
+-  Historia sanctae Shamuni (arabice) -- 201
+###  PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS
+-  Psalmus 151 -- 202
+-  Qumran. Psalmi apocryphi (4Q88, 4Q380,4Q381, 4Q448, 11Q11) (hebraice) -- 203
+-  Psalmi apocryphi syriaci -- 204
+-  Odae Salomonis -- 205
+-  Fragmentum cuiusdam Cairensis libri sententiarum (hebraice) -- 206
+-  Testamentum Job -- 207
+-  De iusto Job quando ucnerunt tres amid eius ut uiderent eum (graece) -- 208
+-  Historia Job (arabice) -- 209
+-  Sapientia Salomonis -- 210
+-  Siracides  -- 211
+-  Psalmi Salomonis  -- 212
+###  XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL
+-  Vitae prophetarum -- 213
+-  Historia Jonae -- 214
+-  Apocryphon Habacuc -- 215
+-  Apocalypsis Sophoniae -- 216
+-  Apocalypsis Zachariae -- 217
+-  Ascensio Isaiae -- 218
+-  Historia Isaiae prophetae (arabice) -- 219
+-  Qumran. Apocryphon Jeremiae A ? (4Q383) (hebraice) -- 220
+-  Qumran. Apocryphon Jeremiae B ? (4Q384) (hebraice) -- 221
+-  Qumran. Apocryphon Jeremiae C (4Q385b) (hebraice) -- 222
+-  Qumran. Apocryphon Jeremiae D (4Q387b) (hebraice) -- 223
+-  Qumran. Apocryphon Jeremiae E (4Q389a) (hebraice) -- 224
+-  Paralipomen a Jeremiae -- 225
+-  Professio Jeremiae et Baruch -- 226
+-  Apocryphon Jeremiae de captiuitate Babylonis -- 227
+-  Prophetia Jeremiae ad Pashur -- 228
+-  Legenda Jeremiae (aethiopice) -- 229
+-  Historia Josias (aethiopice) -- 230
+-  Liber apocryphus Jeremiae -- 231
+-  Baruch -- 232
+-  Apocalypsis Baruch syriaca -- 233
+-  Fragmentum latinum Apocalypsis Baruch syriacae -- 234
+-  Apocalypsis Baruch graeca -- 235
+-  Baruch Gnosticus, auctore Justino Gnostico -- 236
+-  Apocalypsis Baruch aethiopica -- 237
+-  Epistula Baruch (syriace) -- 238
+-  Reliqua uerborum Baruch -- 239
+-  Qumran. Lamentationes apocryphae (4Q179, 4Q501) (hebraice) -- 240
+-  Epistula Jeremiae -- 241
+-  Qumran. Pseudo-Ezechiel (4Q385, 4Q386, 4Q387, 4Q388, 4Q391?) (hebraice) -- 242
+-  Qumran. Noua Jerusalem (1Q32, 2Q24, 4Q232 ?, 4Q554, 4Q555, 5Q15, 11Q18) (hebraice et aramaice) -- 243
+-  Apocryphon Ezechielis (fragmenta graeca) -- 244
+-  Visio Ezechielis (armeniace) -- 245
+###  DANIEL
+-  Susanna -- 246
+-  Bel et Draco -- 247
+###  DANIEL. QUMRAN
+-  Qumran. Apocryphon Danielis (4Q243, 4Q244, 4Q245) (aramaice) -- 248
+-  Qumran. Pseudo-Daniel (4Q246) (aramaice) -- 249
+-  Qumran. Apocryphon de quatuor regnis (4Q552, 4Q553) (aramaice) -- 250
+-  Qumran. Oratio Nabonid (4Q242) (aramaice) -- 251
+-  Qumran. Daniel et Susanna ? (4Q551) (aramaice) -- 252
+###  DANIEL. APOCALYPSES
+-  Apocalypsis Daniclis gracca -- 253
+-  Apocalypsis pseudo-Methodii -- 254
+-  Ultima uisio Danielis (graece) -- 255
+-  Visio monachi Danielis de septem collibus et de insulin (graecc) -- 256
+-  Visio Danielis de tempore nouissimo et de fine mundi (graece) -- 257
+-  Sermo Johannis Chrysostomi e uisionibus Danielis (graece) -- 258
+-  Visio Danielis de insula Cypri (graece) -- 259
+-  De Domino nostro et de fine, auctore iuuene Daniel (syriace) -- 260
+-  Quartadecima uisio Danielis -- 261
+-  Apocalypsis Danielis arabica -- 262
+-  Apocalypsis Danielis persica -- 263
+-  Septima uisio Danielis (armeniace) -- 264
+-  Visio Danielis (slauice) -- 265
+-  Apocalypsis Sedrach (graece) -- 266
+###  DANIEL. VARIA
+-  Passio Danielis et trium puerorum  -- 267
+-  De Daniel et puero Caleb (arabice) -- 268
+-  Colloquium Josephi et Nabuchodonosor (arabice) -- 269
+###  VARIA
+-  Qumran. Apocryphi de quibus nihil certi proponi potest -- 270
+-  Apocryphi anonymi -- 271
+-  Apocalypsis anonyma (fragmentum latinum) -- 272
+-  Epistula pseudo-Aristeae (graece) -- 273
+-  Oracula Sibyllina -- 274
+-  Sibylla Tiburtina -- 275
+-  Sibylla Maga (latine) -- 276
+-  Palaea historica -- 277
