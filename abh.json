@@ -77,31 +77,38 @@
       },
       {
          "id":1,
-         "id_clavis":"1",
-         "category":" ADAM",
+         "id_clavis":"1.ii",
          "names":{
-            "la":"ii Vita Adae et Euae (latine)",
-            "en":""
+            "la":"Vita Adae et Euae (latine)",
+            "en":"Life of Adam and Eve (Latin)"
          },
          "languages":{
             "la":{
                "recensions":[
                   {
                      "editions":[
-                        ""
-                     ],
+                        "M.E.B. HALFORD, The Apocryphal Vita Adae et Evae. Some Comments on the Manuscript Tradition, in Neuphilologische Mitteilungen 82 (1981), p. 417-427",
+                        "F. STEGMULLER, no. 74, 9: cod. Uppsala, Universitetsbibliotek, C 397, fol. 4-6, quem in M.E.B. Halford non inuenies",
+                        "M.E. STONE, A History, p. 25-30.",
+                        "W. MEYER, Vita Adae et Evae, in Abhandlungen der koniglichen bayerischen Akademie der Wissenschaften, philos.-philol. Classe, 14, 3, Munchen, 1878, p. 187-250, e 17 codd.",
+                        "J.H. MOZLEY, The << Vita Adae >>, in JThSt 30 (1928-1929), p. 121-149, e 13 codd.",
+                        "G. EIS, Beitrage zur mittelhochdeutschen Legenden and Mystik. Untersuchungen und Texte (Germanische Studien 161), Berlin, 1967 (= 1935), p. 241-2S5 e codd. Admont, Stiftsbibl. 25, fol. 270- 272v, saec. XIII et Zwettl, Stiftsbibl. 13, fol. 221v-223, saec. XIII."
+                    ],
                      "translations":[
                         {
                            "language":{
-                              "en":""
-                           },
-                           "notes":""
+                              "en":[
+                                 "M.D. JOHNSON, Life of Adam and Eve. A New Translation and Introduction, in J.H. CHARLESWORTH, II, p. 249- 29S (ex editione W. Meyer)",
+                                 "L.S.A. WELLES - M. WHITTAKER, The Life of Adam and Eve, in H.F.D. SPARKS, p. 141-167"
+                              ],
+                              "es":"N. FERNANDEZ MARCOS, Vida de Adcin y Eva (Apocalipsis de Moises), in A. DIEZ MACHO, II, p. 338-352."
+                           }
                         }
                      ],
-                     "notes":""
+                     "notes":"Concordantiae: W. LECHNER-SCHMIDT, Wortindex der lateinisch erhaltenen Pseudepigraphen zum Alten Testament (Texte and Arbeiten zum neutestamentlichen Zeitalter 3), Tiibingen, 1990 (ex editione W. Meyer); — A.-M. DENIS, Concordance latine des Pseudepigraphes d'Ancien Testament. Concordance. Corpus des textes. Indices (Corpus Christianorum. Thesaurus patrum latinorum. Supplementum), Turnhout, 1993 (ex editionibus W. Meyer et J.H. Mozley)."
                   }
                ],
-               "notes":""
+               "notes":"J. VERHEYDEN, Les Pseudepigraphes d'Ancien Testament. Textes latins. A propos d'une Concordance, in ETL 71 (1995), p. 383-420"
             }
          }
       },
