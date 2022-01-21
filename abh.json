@@ -6,6 +6,7 @@
       {
          "id":0,
          "id_clavis":"1.i",
+         "category":"ADAM",
          "names":{
             "la":"Vita Adae et Euae (Apocalypsis Moysi)",
             "en":"Life of Adam and Eve (Apocalypse of Moses)"
@@ -82,6 +83,7 @@
       {
          "id":1,
          "id_clavis":"1.ii",
+         "category":"ADAM",
          "names":{
             "la":"Vita Adae et Euae (latine)",
             "en":"Life of Adam and Eve (Latin)"
@@ -119,7 +121,7 @@
       {
          "id":2,
          "id_clavis":"1",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":"iii Vita Adae et Euae (slauice)",
             "en":""
@@ -149,7 +151,7 @@
       {
          "id":3,
          "id_clavis":"1",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":"iv Paenitentia Adae (armeniace)",
             "en":""
@@ -179,7 +181,7 @@
       {
          "id":4,
          "id_clavis":"1",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":"v Vita Adae (georgice)",
             "en":""
@@ -209,7 +211,7 @@
       {
          "id":5,
          "id_clavis":"1",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":"vi Vita Adae (fragmenta coptica)",
             "en":""
@@ -239,7 +241,7 @@
       {
          "id":6,
          "id_clavis":"2",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Vita Adae",
             "en":""
@@ -269,7 +271,7 @@
       {
          "id":7,
          "id_clavis":"3",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Testamentum Adae",
             "en":""
@@ -299,7 +301,7 @@
       {
          "id":8,
          "id_clavis":"4",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Testamentum protoplastorum",
             "en":""
@@ -329,7 +331,7 @@
       {
          "id":9,
          "id_clavis":"5",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Apocalypsis Adae (graece)",
             "en":""
@@ -359,7 +361,7 @@
       {
          "id":10,
          "id_clavis":"6",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Paenitentia Adae (graece)",
             "en":""
@@ -389,7 +391,7 @@
       {
          "id":11,
          "id_clavis":"7",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Apocalypses gnosticae Adae",
             "en":""
@@ -419,7 +421,7 @@
       {
          "id":12,
          "id_clavis":"8",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Euangelium Euae",
             "en":""
@@ -449,7 +451,7 @@
       {
          "id":13,
          "id_clavis":"9",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber de filiabus Adae",
             "en":""
@@ -479,7 +481,7 @@
       {
          "id":14,
          "id_clavis":"10",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De Adami compositions et nomine",
             "en":""
@@ -509,7 +511,7 @@
       {
          "id":15,
          "id_clavis":"11",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Caucrna Thesaurorum",
             "en":""
@@ -539,7 +541,7 @@
       {
          "id":16,
          "id_clavis":"12",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Apocalypsis Adae (NHC V,5) (sahidice)",
             "en":""
@@ -569,7 +571,7 @@
       {
          "id":17,
          "id_clavis":"13",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia seditionis Satanae (fragmentum copticum)",
             "en":""
@@ -599,7 +601,7 @@
       {
          "id":18,
          "id_clavis":"14",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Conflictus Adac et Euae cum Satana",
             "en":""
@@ -629,7 +631,7 @@
       {
          "id":19,
          "id_clavis":"15",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber Adami (fragmenta mandaea)",
             "en":""
@@ -659,7 +661,7 @@
       {
          "id":20,
          "id_clavis":"16",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia creationis et transgressionis Adae",
             "en":""
@@ -689,7 +691,7 @@
       {
          "id":21,
          "id_clavis":"17",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia expulsionis Adae e paradiso",
             "en":""
@@ -719,7 +721,7 @@
       {
          "id":22,
          "id_clavis":"18",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia paenitentiae Adae et Euae (armeniace)",
             "en":""
@@ -749,7 +751,7 @@
       {
          "id":23,
          "id_clavis":"19",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Dicta Adae ad Seth (armeniace)",
             "en":""
@@ -779,7 +781,7 @@
       {
          "id":24,
          "id_clavis":"20",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Mors Adae (armeniace)",
             "en":""
@@ -809,7 +811,7 @@
       {
          "id":25,
          "id_clavis":"21",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Adam. Fragmentum I (armeniace)",
             "en":""
@@ -839,7 +841,7 @@
       {
          "id":26,
          "id_clavis":"22",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Adam. Fragmentum II (armeniace)",
             "en":""
@@ -869,7 +871,7 @@
       {
          "id":27,
          "id_clavis":"23",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Adam. Fragmentum III (armeniace)",
             "en":""
@@ -899,7 +901,7 @@
       {
          "id":28,
          "id_clavis":"24",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia protoparentum, qui sunt Adam, filii nepotesque eius (armeniace)",
             "en":""
@@ -929,7 +931,7 @@
       {
          "id":29,
          "id_clavis":"25",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Epistula Adae ad Deum (armeniace)",
             "en":""
@@ -959,7 +961,7 @@
       {
          "id":30,
          "id_clavis":"26",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De casu Adae (armeniace) ",
             "en":""
@@ -989,7 +991,7 @@
       {
          "id":31,
          "id_clavis":"27",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De casu Adae et Euae et de incarnatione Christi (armeniace)",
             "en":""
@@ -1019,7 +1021,7 @@
       {
          "id":32,
          "id_clavis":"28",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia Adae et nepotum eius (armeniace)",
             "en":""
@@ -1049,7 +1051,7 @@
       {
          "id":33,
          "id_clavis":"29",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Adam. Historia I (armeniace)",
             "en":""
@@ -1079,7 +1081,7 @@
       {
          "id":34,
          "id_clavis":"30",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Adam. Historia II (armeniace)",
             "en":""
@@ -1109,7 +1111,7 @@
       {
          "id":35,
          "id_clavis":"31",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Quaestiones (armeniace)",
             "en":""
@@ -1139,7 +1141,7 @@
       {
          "id":36,
          "id_clavis":"32",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De sex millenariis (armeniace)",
             "en":""
@@ -1169,7 +1171,7 @@
       {
          "id":37,
          "id_clavis":"33",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De undecim aetatibus (armeniace)",
             "en":""
@@ -1199,7 +1201,7 @@
       {
          "id":38,
          "id_clavis":"34",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Aetas protoparentum (armeniace)",
             "en":""
@@ -1229,7 +1231,7 @@
       {
          "id":39,
          "id_clavis":"35",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Chronologia ab Adamo usque ad Salomonem (armeniace)",
             "en":""
@@ -1259,7 +1261,7 @@
       {
          "id":40,
          "id_clavis":"36",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Filii Adae (armeniace)",
             "en":""
@@ -1289,7 +1291,7 @@
       {
          "id":41,
          "id_clavis":"37",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De chirographo Adae (armeniace)",
             "en":""
@@ -1319,7 +1321,7 @@
       {
          "id":42,
          "id_clavis":"38",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Sethitae et Cainitae (armeniace)",
             "en":""
@@ -1349,7 +1351,7 @@
       {
          "id":43,
          "id_clavis":"39",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Eiectio Adae et Euae e paradiso (georgice)",
             "en":""
@@ -1379,7 +1381,7 @@
       {
          "id":44,
          "id_clavis":"40",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Creatio caeli et terrae (georgice)",
             "en":""
@@ -1409,7 +1411,7 @@
       {
          "id":45,
          "id_clavis":"41",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Reuelationes de creatione (georgice)",
             "en":""
@@ -1439,7 +1441,7 @@
       {
          "id":46,
          "id_clavis":"42",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Narratio de creatione (slauice)",
             "en":""
@@ -1469,7 +1471,7 @@
       {
          "id":47,
          "id_clavis":"43",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Creatio Adae (slauice)",
             "en":""
@@ -1499,7 +1501,7 @@
       {
          "id":48,
          "id_clavis":"44",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Tentatio Adae et Euae a Satanael (slauice)",
             "en":""
@@ -1529,7 +1531,7 @@
       {
          "id":49,
          "id_clavis":"45",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Homilia Adae ad Lazarum (slauice)",
             "en":""
@@ -1559,7 +1561,7 @@
       {
          "id":50,
          "id_clavis":"",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":"",
             "en":""
@@ -1589,7 +1591,7 @@
       {
          "id":51,
          "id_clavis":"46",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Vita Abel, auctore Symmacho (syriace)",
             "en":""
@@ -1619,7 +1621,7 @@
       {
          "id":52,
          "id_clavis":"47",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia occisionis Abel (fragmentum copticum)",
             "en":""
@@ -1649,7 +1651,7 @@
       {
          "id":53,
          "id_clavis":"48",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia Abel et Cain, filiorum Adae",
             "en":""
@@ -1679,7 +1681,7 @@
       {
          "id":54,
          "id_clavis":"49",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Abel (armeniace)",
             "en":""
@@ -1709,7 +1711,7 @@
       {
          "id":55,
          "id_clavis":"50",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Posteri Adae (armeniace)",
             "en":""
@@ -1739,7 +1741,7 @@
       {
          "id":56,
          "id_clavis":"51",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Paraphrasis Seth",
             "en":""
@@ -1769,7 +1771,7 @@
       {
          "id":57,
          "id_clavis":"52",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Prophetia Seth",
             "en":""
@@ -1799,7 +1801,7 @@
       {
          "id":58,
          "id_clavis":"53",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber apocryphus nomine Seth. Mons Victorialis",
             "en":""
@@ -1829,7 +1831,7 @@
       {
          "id":59,
          "id_clavis":"54",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber Seth syriacus",
             "en":""
@@ -1859,7 +1861,7 @@
       {
          "id":60,
          "id_clavis":"55",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Secundus Tractatus Magni Seth (NHC VII, 2) (coptice)",
             "en":""
@@ -1889,7 +1891,7 @@
       {
          "id":61,
          "id_clavis":"56",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Tres columnae Seth (NHC VII, 5) (coptice)",
             "en":""
@@ -1919,7 +1921,7 @@
       {
          "id":62,
          "id_clavis":"57",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":"Intelligentia Noreae uxoris Seth (NHC IX, 2) (coptice)",
             "en":""
@@ -1949,7 +1951,7 @@
       {
          "id":63,
          "id_clavis":"58",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De euangelio Seth",
             "en":""
@@ -1979,7 +1981,7 @@
       {
          "id":64,
          "id_clavis":"59",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber Seth slauicus",
             "en":""
@@ -2009,7 +2011,7 @@
       {
          "id":65,
          "id_clavis":"60",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Qumran. Oratio Enosh (4Q369) (hebraice)",
             "en":""
@@ -2039,7 +2041,7 @@
       {
          "id":66,
          "id_clavis":"61",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Henoch aethiopicus",
             "en":""
@@ -2069,7 +2071,7 @@
       {
          "id":67,
          "id_clavis":"62",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber gigantum",
             "en":""
@@ -2099,7 +2101,7 @@
       {
          "id":68,
          "id_clavis":"63",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Liber Og gigantis",
             "en":""
@@ -2129,7 +2131,7 @@
       {
          "id":69,
          "id_clavis":"64",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Qumran. Dicta Michael (4Q529, 6Q23) (aramaice)",
             "en":""
@@ -2159,7 +2161,7 @@
       {
          "id":70,
          "id_clavis":"65",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Qumran. Oratio Michael (4Q471b) (hebraice)",
             "en":""
@@ -2189,7 +2191,7 @@
       {
          "id":71,
          "id_clavis":"66",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Henoch slauicus",
             "en":""
@@ -2219,7 +2221,7 @@
       {
          "id":72,
          "id_clavis":"67",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Henoch hebraicus",
             "en":""
@@ -2249,7 +2251,7 @@
       {
          "id":73,
          "id_clavis":"68",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia Henoch et Eliae (latine)",
             "en":""
@@ -2279,7 +2281,7 @@
       {
          "id":74,
          "id_clavis":"69",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Apocalypsis Henoch (syriace)",
             "en":""
@@ -2309,7 +2311,7 @@
       {
          "id":75,
          "id_clavis":"70",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Fragmenta coptica Henoch I (sahidice)",
             "en":""
@@ -2358,7 +2360,7 @@
       {
          "id":76,
          "id_clavis":"71",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Fragmenta coptica Henoch II (sahidice)",
             "en":""
@@ -2407,7 +2409,7 @@
       {
          "id":77,
          "id_clavis":"72",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Alius sermo de natiuitate Henoch (aethiopice)",
             "en":""
@@ -2437,7 +2439,7 @@
       {
          "id":78,
          "id_clavis":"73",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Visio Henoch (aethiopice) ",
             "en":""
@@ -2467,7 +2469,7 @@
       {
          "id":79,
          "id_clavis":"74",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Visio iusti Henoch (armeniace)",
             "en":""
@@ -2497,7 +2499,7 @@
       {
          "id":80,
          "id_clavis":"75",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Virtus Henoch (armeniace)",
             "en":""
@@ -2527,7 +2529,7 @@
       {
          "id":81,
          "id_clavis":"76",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Gigantes (armeniace)",
             "en":""
@@ -2557,7 +2559,7 @@
       {
          "id":82,
          "id_clavis":"77",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Ab Adamo usque ad diluuium (armeniace)",
             "en":""
@@ -2587,7 +2589,7 @@
       {
          "id":83,
          "id_clavis":"78",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" De sacerdotio Methusalem, Nir et Melchisedech",
             "en":""
@@ -2617,7 +2619,7 @@
       {
          "id":84,
          "id_clavis":"79",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Qumran. Apocryphon Genesis (1Q20) (aramaice)",
             "en":""
@@ -2647,7 +2649,7 @@
       {
          "id":85,
          "id_clavis":"80",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Lamech (fragmentum slauicum)",
             "en":""
@@ -2677,7 +2679,7 @@
       {
          "id":86,
          "id_clavis":"81",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Filii Dei (armeniace)",
             "en":""
@@ -2707,7 +2709,7 @@
       {
          "id":87,
          "id_clavis":"82",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Qumran. Apocalypsis Noe (1Q19, 1Q19bis, 4Q534, 4Q535, 4Q536) (hebraice et aramaice)",
             "en":""
@@ -2737,7 +2739,7 @@
       {
          "id":88,
          "id_clavis":"83",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Qumran. Admonitio de diluuio (4Q370) (hebraice)",
             "en":""
@@ -2767,7 +2769,7 @@
       {
          "id":89,
          "id_clavis":"84",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Historia Noe (armeniace)",
             "en":""
@@ -2797,7 +2799,7 @@
       {
          "id":90,
          "id_clavis":"85",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Tractatus Sem (syriace)",
             "en":""
@@ -2827,7 +2829,7 @@
       {
          "id":91,
          "id_clavis":"86",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Paraphrasis Sem (NHC VII, 1) (coptice)",
             "en":""
@@ -2857,7 +2859,7 @@
       {
          "id":92,
          "id_clavis":"87",
-         "category":" ADAM",
+         "category":"ADAM,
          "names":{
             "la":" Prophetia Cham",
             "en":""
@@ -2887,7 +2889,7 @@
       {
          "id":93,
          "id_clavis":"88",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Testamentum Abrahae",
             "en":""
@@ -2917,7 +2919,7 @@
       {
          "id":94,
          "id_clavis":"89",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Apocalypsis Abrahae (slauice)",
             "en":""
@@ -2947,7 +2949,7 @@
       {
          "id":95,
          "id_clavis":"90",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" De commoratione Abrahae et Sarae in Aegypto (aethiopice)",
             "en":""
@@ -2977,7 +2979,7 @@
       {
          "id":96,
          "id_clavis":"91",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Inquisitio Abrahae",
             "en":""
@@ -3007,7 +3009,7 @@
       {
          "id":97,
          "id_clavis":"92",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Qumran. Enarratio in patriarchis (4Q464) (hebraice)",
             "en":""
@@ -3037,7 +3039,7 @@
       {
          "id":98,
          "id_clavis":"93",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Apocryphon Loth",
             "en":""
@@ -3067,7 +3069,7 @@
       {
          "id":99,
          "id_clavis":"94",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Qumran. Apocryphon Melchisedech (11Q13) (hebraice)",
             "en":""
@@ -3097,7 +3099,7 @@
       {
          "id":100,
          "id_clavis":"95",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Historia de Melchisedech",
             "en":""
@@ -3127,7 +3129,7 @@
       {
          "id":101,
          "id_clavis":"96",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Tractatus Melchisedech (NHC IX, I) (coptice)",
             "en":""
@@ -3157,7 +3159,7 @@
       {
          "id":102,
          "id_clavis":"97",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Liber Melchisedech (georgice)",
             "en":""
@@ -3187,7 +3189,7 @@
       {
          "id":103,
          "id_clavis":"98",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Testamentum Isaac",
             "en":""
@@ -3217,7 +3219,7 @@
       {
          "id":104,
          "id_clavis":"99",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Testamentum Jacob",
             "en":""
@@ -3247,7 +3249,7 @@
       {
          "id":105,
          "id_clavis":"100",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Testamentum Jacob (armeniace)",
             "en":""
@@ -3277,7 +3279,7 @@
       {
          "id":106,
          "id_clavis":"101",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Scala Jacob (Gradus Jacob)",
             "en":""
@@ -3307,7 +3309,7 @@
       {
          "id":107,
          "id_clavis":"102",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Scala Jacob (Climax Jacobi) (slauice)",
             "en":""
@@ -3337,7 +3339,7 @@
       {
          "id":108,
          "id_clavis":"103",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Oratio Jacob (graece)",
             "en":""
@@ -3367,7 +3369,7 @@
       {
          "id":109,
          "id_clavis":"104",
-         "category":" ABRAHAM - ISAAC - JACOB",
+         "category":"ABRAHAM - ISAAC - JACOB",
          "names":{
             "la":" Apocryphon de Jacob et Joseph (graece)",
             "en":""
@@ -3397,7 +3399,7 @@
       {
          "id":110,
          "id_clavis":"105",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Joseph et Aseneth",
             "en":""
@@ -3427,7 +3429,7 @@
       {
          "id":111,
          "id_clavis":"106",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Qumran. Apocryphon Joseph (2Q22, 4Q371, 4Q372, 4Q373) (hebraice)",
             "en":""
@@ -3457,7 +3459,7 @@
       {
          "id":112,
          "id_clavis":"107",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Oratio Joseph (fragmenta graeca in citationibus)",
             "en":""
@@ -3487,7 +3489,7 @@
       {
          "id":113,
          "id_clavis":"108",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia Joseph (fragmenta graeca)",
             "en":""
@@ -3517,7 +3519,7 @@
       {
          "id":114,
          "id_clavis":"109",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia Joseph (syriace)",
             "en":""
@@ -3547,7 +3549,7 @@
       {
          "id":115,
          "id_clavis":"110",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Legenda Joseph (fragmentum copticum)",
             "en":""
@@ -3577,7 +3579,7 @@
       {
          "id":116,
          "id_clavis":"111",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia apocrypha de Joseph (sahidice)",
             "en":""
@@ -3607,7 +3609,7 @@
       {
          "id":117,
          "id_clavis":"112",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia Joseph et fratrum eius (sahidice)",
             "en":""
@@ -3637,7 +3639,7 @@
       {
          "id":118,
          "id_clavis":"113",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia Joseph filii Jacob",
             "en":""
@@ -3667,7 +3669,7 @@
       {
          "id":119,
          "id_clavis":"114",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia Joseph filii Jacob (arabice)",
             "en":""
@@ -3697,7 +3699,7 @@
       {
          "id":120,
          "id_clavis":"115",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Historia Joseph (arabice)",
             "en":""
@@ -3727,7 +3729,7 @@
       {
          "id":121,
          "id_clavis":"116",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Dormitio Joseph filii Jacob (arabice)",
             "en":""
@@ -3757,7 +3759,7 @@
       {
          "id":122,
          "id_clavis":"117",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Mors Joseph (aethiopice)",
             "en":""
@@ -3787,7 +3789,7 @@
       {
          "id":123,
          "id_clavis":"118",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Testamentum XII patriarcharum",
             "en":""
@@ -3817,7 +3819,7 @@
       {
          "id":124,
          "id_clavis":"119",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Nomina uxorum patriarcharum",
             "en":""
@@ -3847,7 +3849,7 @@
       {
          "id":125,
          "id_clavis":"120",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Qumran. Testamentum Qahat (4Q542) (aramaice)",
             "en":""
@@ -3877,7 +3879,7 @@
       {
          "id":126,
          "id_clavis":"121",
-         "category":" XII PATRIARCHAE",
+         "category":"XII PATRIARCHAE",
          "names":{
             "la":" Qumran. Visiones Amram (4Q543, 4Q544, 4Q545, 4Q546, 4Q547, 4Q548) (aramaice)",
             "en":""
@@ -3907,7 +3909,7 @@
       {
          "id":127,
          "id_clavis":"122",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. Apocryphon Moysi (1Q22, 1Q29, 4Q375, 4Q376) (hebraice)",
             "en":""
@@ -3937,7 +3939,7 @@
       {
          "id":128,
          "id_clavis":"123",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. Apocryphon Moysi (4Q377) (hebraice)",
             "en":""
@@ -3967,7 +3969,7 @@
       {
          "id":129,
          "id_clavis":"124",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. Apocryphon Moysi ? (2Q21) (hebraice)",
             "en":""
@@ -3997,7 +3999,7 @@
       {
          "id":130,
          "id_clavis":"125",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. Pseudo-Moyses (4Q385a, 4Q387a, 4Q388a, 4Q389, 4Q390) (hebraice)",
             "en":""
@@ -4027,7 +4029,7 @@
       {
          "id":131,
          "id_clavis":"126",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. De Hur et Miriam (4Q549) (aramaice)",
             "en":""
@@ -4057,7 +4059,7 @@
       {
          "id":132,
          "id_clavis":"127",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. Apocryphon Pentateuchi (4Q368) (hebraice)",
             "en":""
@@ -4087,7 +4089,7 @@
       {
          "id":133,
          "id_clavis":"128",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Qumran. Oratio de traditione exodi et occupationis (4Q374) (hebraice)",
             "en":""
@@ -4117,7 +4119,7 @@
       {
          "id":134,
          "id_clavis":"129",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Jannes et Jambres",
             "en":""
@@ -4147,7 +4149,7 @@
       {
          "id":135,
          "id_clavis":"130",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Colloquium Moysi cum Deo",
             "en":""
@@ -4177,7 +4179,7 @@
       {
          "id":136,
          "id_clavis":"131",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Antiquitates biblicae (latine)",
             "en":""
@@ -4207,7 +4209,7 @@
       {
          "id":137,
          "id_clavis":"132",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Liber Jubilaeorum",
             "en":""
@@ -4237,7 +4239,7 @@
       {
          "id":138,
          "id_clavis":"133",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Eldad et Modad (fragmentum graecum in citatione)",
             "en":""
@@ -4267,7 +4269,7 @@
       {
          "id":139,
          "id_clavis":"134",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Assumptio Moysi",
             "en":""
@@ -4297,7 +4299,7 @@
       {
          "id":140,
          "id_clavis":"135",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Apocalypsis Moysi",
             "en":""
@@ -4327,7 +4329,7 @@
       {
          "id":141,
          "id_clavis":"136",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" De uita et morte Moysi",
             "en":""
@@ -4357,7 +4359,7 @@
       {
          "id":142,
          "id_clavis":"137",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Narratio de Moyse et Josue (graece)",
             "en":""
@@ -4387,7 +4389,7 @@
       {
          "id":143,
          "id_clavis":"138",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Oratio Moysi (latine)",
             "en":""
@@ -4417,7 +4419,7 @@
       {
          "id":144,
          "id_clavis":"139",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Vita Moysi (arabice)",
             "en":""
@@ -4447,7 +4449,7 @@
       {
          "id":145,
          "id_clavis":"140",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Vita Moysi (armeniace)",
             "en":""
@@ -4477,7 +4479,7 @@
       {
          "id":146,
          "id_clavis":"141",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Arde'et et Acta Moysi (aethiopice)",
             "en":""
@@ -4507,7 +4509,7 @@
       {
          "id":147,
          "id_clavis":"142",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Mors Moysi (aethiopice)",
             "en":""
@@ -4537,7 +4539,7 @@
       {
          "id":148,
          "id_clavis":"143",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Mors Aaron (aethiopice)",
             "en":""
@@ -4567,7 +4569,7 @@
       {
          "id":149,
          "id_clavis":"144",
-         "category":" MOYSES",
+         "category":"MOYSES",
          "names":{
             "la":" Liber Monas (graece)",
             "en":""
@@ -4597,7 +4599,7 @@
       {
          "id":150,
          "id_clavis":"145",
-         "category":" JOSUE - JUDICES",
+         "category":"JOSUE - JUDICES",
          "names":{
             "la":" Qumran. Psalmi Josue (4Q378, 4Q379) (hebraice)",
             "en":""
@@ -4627,7 +4629,7 @@
       {
          "id":151,
          "id_clavis":"146",
-         "category":" JOSUE - JUDICES",
+         "category":"JOSUE - JUDICES",
          "names":{
             "la":" Masada. Apocryphon Josue (Masi I) (hebraice)",
             "en":""
@@ -4657,7 +4659,7 @@
       {
          "id":152,
          "id_clavis":"147",
-         "category":" JOSUE - JUDICES",
+         "category":"JOSUE - JUDICES",
          "names":{
             "la":" Visio Kenaz (latine)",
             "en":""
@@ -4687,7 +4689,7 @@
       {
          "id":153,
          "id_clavis":"148",
-         "category":" JOSUE - JUDICES",
+         "category":"JOSUE - JUDICES",
          "names":{
             "la":" Threnus Seilae filiae Jephtidis (latine)",
             "en":""
@@ -4717,7 +4719,7 @@
       {
          "id":154,
          "id_clavis":"149",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Qumran. Visio Samuel (4Q160) (hebraice)",
             "en":""
@@ -4747,7 +4749,7 @@
       {
          "id":155,
          "id_clavis":"150",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Qumran. Apocryphon de libris Regnorum (6Q9) (hebraice)",
             "en":""
@@ -4777,7 +4779,7 @@
       {
          "id":156,
          "id_clavis":"151",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Qumran. Apocryphon Dauid ? (2Q22) (hebraice)",
             "en":""
@@ -4807,7 +4809,7 @@
       {
          "id":157,
          "id_clavis":"152",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Citharismus Dauid (latine)",
             "en":""
@@ -4837,7 +4839,7 @@
       {
          "id":158,
          "id_clavis":"153",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Dicta Gad uidentis (hebraice)",
             "en":""
@@ -4867,7 +4869,7 @@
       {
          "id":159,
          "id_clavis":"154",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Instructio Dauid ad Salomonem (arabice)",
             "en":""
@@ -4897,7 +4899,7 @@
       {
          "id":160,
          "id_clavis":"155",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Epistulae Salomonis ad reges Aegypti et Tyn (graece)",
             "en":""
@@ -4927,7 +4929,7 @@
       {
          "id":161,
          "id_clavis":"156",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" De palatio Salomonis (arabice)",
             "en":""
@@ -4957,7 +4959,7 @@
       {
          "id":162,
          "id_clavis":"157",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Quaestiones reginac Saba ad Salomonem",
             "en":""
@@ -4987,7 +4989,7 @@
       {
          "id":163,
          "id_clavis":"158",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Paenitentia Salomonis (armeniace)",
             "en":""
@@ -5017,7 +5019,7 @@
       {
          "id":164,
          "id_clavis":"159",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Salomon et Saturnus . 113-115",
             "en":""
@@ -5047,7 +5049,7 @@
       {
          "id":165,
          "id_clavis":"160",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Salomonis interdictio . 115",
             "en":""
@@ -5077,7 +5079,7 @@
       {
          "id":166,
          "id_clavis":"161",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Epistula Salomonis ad Roboam de hygromantia (graece)",
             "en":""
@@ -5107,7 +5109,7 @@
       {
          "id":167,
          "id_clavis":"162",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Testamentum Salomonis ad Roboam filium suum",
             "en":""
@@ -5137,7 +5139,7 @@
       {
          "id":168,
          "id_clavis":"163",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Salomonis ultima concilia",
             "en":""
@@ -5167,7 +5169,7 @@
       {
          "id":169,
          "id_clavis":"164",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Mors Salomonis (arabice)",
             "en":""
@@ -5197,7 +5199,7 @@
       {
          "id":170,
          "id_clavis":"165",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Aphikia (arabice)",
             "en":""
@@ -5227,7 +5229,7 @@
       {
          "id":171,
          "id_clavis":"166",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Historia Rechabitarum",
             "en":""
@@ -5257,7 +5259,7 @@
       {
          "id":172,
          "id_clavis":"167",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Apocalypsis Eliae",
             "en":""
@@ -5287,7 +5289,7 @@
       {
          "id":173,
          "id_clavis":"168",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Apocalypsis Eliae hebraica",
             "en":""
@@ -5317,7 +5319,7 @@
       {
          "id":174,
          "id_clavis":"169",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Visio Eliae (latine)",
             "en":""
@@ -5347,7 +5349,7 @@
       {
          "id":175,
          "id_clavis":"170",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Historia Eliae prophetae (arabice)",
             "en":""
@@ -5377,7 +5379,7 @@
       {
          "id":176,
          "id_clavis":"171",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Historia Eliae prophetae et filii uiduae (arabice)",
             "en":""
@@ -5407,7 +5409,7 @@
       {
          "id":177,
          "id_clavis":"172",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Historia Eliae prophetae et ascensionis eius (arabice)",
             "en":""
@@ -5437,7 +5439,7 @@
       {
          "id":178,
          "id_clavis":"173",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Parua historia Eliae prophetae (armeniace)",
             "en":""
@@ -5467,7 +5469,7 @@
       {
          "id":179,
          "id_clavis":"174",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Qumran. Apocryphon Elisei (4Q481a) (hebraice)",
             "en":""
@@ -5497,7 +5499,7 @@
       {
          "id":180,
          "id_clavis":"175",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Sermo Elisei prophetae de peccatoribus (arabice)",
             "en":""
@@ -5527,7 +5529,7 @@
       {
          "id":181,
          "id_clavis":"176",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Sermo Elisei prophetae de necessitate purificationis (arabice)",
             "en":""
@@ -5557,7 +5559,7 @@
       {
          "id":182,
          "id_clavis":"177",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Testamentum Ezechiae",
             "en":""
@@ -5587,7 +5589,7 @@
       {
          "id":183,
          "id_clavis":"178",
-         "category":" I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
+         "category":"I-II SAMUEL — I-H REGES — I-II PARALIPOMENA",
          "names":{
             "la":" Oratio Manasse",
             "en":""
@@ -5617,7 +5619,7 @@
       {
          "id":184,
          "id_clavis":"179",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 3 Esdrae ",
             "en":""
@@ -5647,7 +5649,7 @@
       {
          "id":185,
          "id_clavis":"180",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 4 Esdrae ",
             "en":""
@@ -5677,7 +5679,7 @@
       {
          "id":186,
          "id_clavis":"181",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Confessio Esrae (latine)",
             "en":""
@@ -5707,7 +5709,7 @@
       {
          "id":187,
          "id_clavis":"182",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 5 Esdrae",
             "en":""
@@ -5737,7 +5739,7 @@
       {
          "id":188,
          "id_clavis":"183",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 6 Esdrae",
             "en":""
@@ -5767,7 +5769,7 @@
       {
          "id":189,
          "id_clavis":"184",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":"i Apocalypsis Esdrae graeca ",
             "en":""
@@ -5797,7 +5799,7 @@
       {
          "id":190,
          "id_clavis":"184",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":"ii Apocalypsis Sedrach (graece) ",
             "en":""
@@ -5827,7 +5829,7 @@
       {
          "id":191,
          "id_clavis":"184",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":"iii Visio beati Esdrae (latine)",
             "en":""
@@ -5857,7 +5859,7 @@
       {
          "id":192,
          "id_clavis":"185",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Reuelatio Esdrae de qualitatibus anni ",
             "en":""
@@ -5887,7 +5889,7 @@
       {
          "id":193,
          "id_clavis":"186",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Apocalypsis Esdrae de regno Araborum",
             "en":""
@@ -5917,7 +5919,7 @@
       {
          "id":194,
          "id_clavis":"187",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Apocalypsis Esdrae aethiopica",
             "en":""
@@ -5947,7 +5949,7 @@
       {
          "id":195,
          "id_clavis":"188",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Quaestiones Esdrae de animabus (armeniace)",
             "en":""
@@ -5977,7 +5979,7 @@
       {
          "id":196,
          "id_clavis":"189",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Somnium Esdrae",
             "en":""
@@ -6007,7 +6009,7 @@
       {
          "id":197,
          "id_clavis":"190",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Historia Babylonis (slauice)",
             "en":""
@@ -6037,7 +6039,7 @@
       {
          "id":198,
          "id_clavis":"191",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Qumran. Proto-Esther (4Q550) (aramaice)",
             "en":""
@@ -6067,7 +6069,7 @@
       {
          "id":199,
          "id_clavis":"192",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Masada. Apocryphon Esther ? (Masim) (hebraice)",
             "en":""
@@ -6097,7 +6099,7 @@
       {
          "id":200,
          "id_clavis":"193",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Judith",
             "en":""
@@ -6127,7 +6129,7 @@
       {
          "id":201,
          "id_clavis":"194",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Qumran. Fragmenta Tobit (4Q196, 4Q197, 4Q198, 4Q199, 4Q200?, 4Q478?) (hebraice",
             "en":""
@@ -6157,7 +6159,7 @@
       {
          "id":202,
          "id_clavis":"",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":"",
             "en":""
@@ -6187,7 +6189,7 @@
       {
          "id":203,
          "id_clavis":"195",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Historia ct Sapientia Ahiqar",
             "en":""
@@ -6217,7 +6219,7 @@
       {
          "id":204,
          "id_clavis":"196",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 1 Maccabaeorum",
             "en":""
@@ -6247,7 +6249,7 @@
       {
          "id":205,
          "id_clavis":"197",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 2 Maccabaeorum",
             "en":""
@@ -6277,7 +6279,7 @@
       {
          "id":206,
          "id_clavis":"198",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 3 Maccabaeorum",
             "en":""
@@ -6307,7 +6309,7 @@
       {
          "id":207,
          "id_clavis":"199",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 4 Maccabaeorum",
             "en":""
@@ -6337,7 +6339,7 @@
       {
          "id":208,
          "id_clavis":"200",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" 5 Maccabaeorum",
             "en":""
@@ -6367,7 +6369,7 @@
       {
          "id":209,
          "id_clavis":"201",
-         "category":" ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
+         "category":"ESDRAS - ESTHER - TOBIT - I-V MACCABAEORUM",
          "names":{
             "la":" Historia sanctae Shamuni (arabice)",
             "en":""
@@ -6397,7 +6399,7 @@
       {
          "id":210,
          "id_clavis":"202",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Psalmus 151",
             "en":""
@@ -6427,7 +6429,7 @@
       {
          "id":211,
          "id_clavis":"203",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Qumran. Psalmi apocryphi (4Q88, 4Q380,4Q381, 4Q448, 11Q11) (hebraice)",
             "en":""
@@ -6457,7 +6459,7 @@
       {
          "id":212,
          "id_clavis":"204",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Psalmi apocryphi syriaci",
             "en":""
@@ -6487,7 +6489,7 @@
       {
          "id":213,
          "id_clavis":"205",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Odae Salomonis",
             "en":""
@@ -6517,7 +6519,7 @@
       {
          "id":214,
          "id_clavis":"206",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Fragmentum cuiusdam Cairensis libri sententiarum (hebraice)",
             "en":""
@@ -6547,7 +6549,7 @@
       {
          "id":215,
          "id_clavis":"207",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Testamentum Job",
             "en":""
@@ -6577,7 +6579,7 @@
       {
          "id":216,
          "id_clavis":"208",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" De iusto Job quando ucnerunt tres amid eius ut uiderent eum (graece)",
             "en":""
@@ -6607,7 +6609,7 @@
       {
          "id":217,
          "id_clavis":"209",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Historia Job (arabice)",
             "en":""
@@ -6637,7 +6639,7 @@
       {
          "id":218,
          "id_clavis":"210",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Sapientia Salomonis",
             "en":""
@@ -6667,7 +6669,7 @@
       {
          "id":219,
          "id_clavis":"211",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Siracides ",
             "en":""
@@ -6697,7 +6699,7 @@
       {
          "id":220,
          "id_clavis":"212",
-         "category":" PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
+         "category":"PSALMI — ODAE SALOMONIS — PROVER.BIA — JOB — SAPIENTIA — SIIZACIDES — PSALMI SALOMONIS",
          "names":{
             "la":" Psalmi Salomonis ",
             "en":""
@@ -6727,7 +6729,7 @@
       {
          "id":221,
          "id_clavis":"213",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Vitae prophetarum",
             "en":""
@@ -6757,7 +6759,7 @@
       {
          "id":222,
          "id_clavis":"214",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Historia Jonae",
             "en":""
@@ -6787,7 +6789,7 @@
       {
          "id":223,
          "id_clavis":"215",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocryphon Habacuc",
             "en":""
@@ -6817,7 +6819,7 @@
       {
          "id":224,
          "id_clavis":"216",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocalypsis Sophoniae",
             "en":""
@@ -6847,7 +6849,7 @@
       {
          "id":225,
          "id_clavis":"217",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocalypsis Zachariae",
             "en":""
@@ -6877,7 +6879,7 @@
       {
          "id":226,
          "id_clavis":"218",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Ascensio Isaiae",
             "en":""
@@ -6907,7 +6909,7 @@
       {
          "id":227,
          "id_clavis":"219",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Historia Isaiae prophetae (arabice)",
             "en":""
@@ -6937,7 +6939,7 @@
       {
          "id":228,
          "id_clavis":"220",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Apocryphon Jeremiae A ? (4Q383) (hebraice)",
             "en":""
@@ -6967,7 +6969,7 @@
       {
          "id":229,
          "id_clavis":"221",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Apocryphon Jeremiae B ? (4Q384) (hebraice)",
             "en":""
@@ -6997,7 +6999,7 @@
       {
          "id":230,
          "id_clavis":"222",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Apocryphon Jeremiae C (4Q385b) (hebraice)",
             "en":""
@@ -7027,7 +7029,7 @@
       {
          "id":231,
          "id_clavis":"223",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Apocryphon Jeremiae D (4Q387b) (hebraice)",
             "en":""
@@ -7057,7 +7059,7 @@
       {
          "id":232,
          "id_clavis":"224",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Apocryphon Jeremiae E (4Q389a) (hebraice)",
             "en":""
@@ -7087,7 +7089,7 @@
       {
          "id":233,
          "id_clavis":"225",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Paralipomen a Jeremiae",
             "en":""
@@ -7117,7 +7119,7 @@
       {
          "id":234,
          "id_clavis":"226",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Professio Jeremiae et Baruch",
             "en":""
@@ -7147,7 +7149,7 @@
       {
          "id":235,
          "id_clavis":"227",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocryphon Jeremiae de captiuitate Babylonis",
             "en":""
@@ -7177,7 +7179,7 @@
       {
          "id":236,
          "id_clavis":"228",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Prophetia Jeremiae ad Pashur",
             "en":""
@@ -7207,7 +7209,7 @@
       {
          "id":237,
          "id_clavis":"229",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Legenda Jeremiae (aethiopice)",
             "en":""
@@ -7237,7 +7239,7 @@
       {
          "id":238,
          "id_clavis":"230",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Historia Josias (aethiopice)",
             "en":""
@@ -7267,7 +7269,7 @@
       {
          "id":239,
          "id_clavis":"231",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Liber apocryphus Jeremiae",
             "en":""
@@ -7297,7 +7299,7 @@
       {
          "id":240,
          "id_clavis":"232",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Baruch",
             "en":""
@@ -7327,7 +7329,7 @@
       {
          "id":241,
          "id_clavis":"233",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocalypsis Baruch syriaca",
             "en":""
@@ -7357,7 +7359,7 @@
       {
          "id":242,
          "id_clavis":"234",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Fragmentum latinum Apocalypsis Baruch syriacae",
             "en":""
@@ -7387,7 +7389,7 @@
       {
          "id":243,
          "id_clavis":"235",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocalypsis Baruch graeca",
             "en":""
@@ -7417,7 +7419,7 @@
       {
          "id":244,
          "id_clavis":"236",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Baruch Gnosticus, auctore Justino Gnostico",
             "en":""
@@ -7447,7 +7449,7 @@
       {
          "id":245,
          "id_clavis":"237",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocalypsis Baruch aethiopica",
             "en":""
@@ -7477,7 +7479,7 @@
       {
          "id":246,
          "id_clavis":"238",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Epistula Baruch (syriace)",
             "en":""
@@ -7507,7 +7509,7 @@
       {
          "id":247,
          "id_clavis":"239",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Reliqua uerborum Baruch",
             "en":""
@@ -7537,7 +7539,7 @@
       {
          "id":248,
          "id_clavis":"240",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Lamentationes apocryphae (4Q179, 4Q501) (hebraice)",
             "en":""
@@ -7567,7 +7569,7 @@
       {
          "id":249,
          "id_clavis":"241",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Epistula Jeremiae",
             "en":""
@@ -7597,7 +7599,7 @@
       {
          "id":250,
          "id_clavis":"242",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Pseudo-Ezechiel (4Q385, 4Q386, 4Q387, 4Q388, 4Q391?) (hebraice)",
             "en":""
@@ -7627,7 +7629,7 @@
       {
          "id":251,
          "id_clavis":"243",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Qumran. Noua Jerusalem (1Q32, 2Q24, 4Q232 ?, 4Q554, 4Q555, 5Q15, 11Q18) (hebraice et aramaice)",
             "en":""
@@ -7657,7 +7659,7 @@
       {
          "id":252,
          "id_clavis":"244",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Apocryphon Ezechielis (fragmenta graeca)",
             "en":""
@@ -7687,7 +7689,7 @@
       {
          "id":253,
          "id_clavis":"245",
-         "category":" XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
+         "category":"XII PROPHETAE — ISAIAS — JEREMIAS — BARUCH — EZECHIEL",
          "names":{
             "la":" Visio Ezechielis (armeniace)",
             "en":""
@@ -7717,7 +7719,7 @@
       {
          "id":254,
          "id_clavis":"246",
-         "category":" DANIEL",
+         "category":"DANIEL",
          "names":{
             "la":" Susanna",
             "en":""
@@ -7747,7 +7749,7 @@
       {
          "id":255,
          "id_clavis":"247",
-         "category":" DANIEL",
+         "category":"DANIEL",
          "names":{
             "la":" Bel et Draco",
             "en":""
@@ -7777,7 +7779,7 @@
       {
          "id":256,
          "id_clavis":"248",
-         "category":" DANIEL. QUMRAN",
+         "category":"DANIEL. QUMRAN",
          "names":{
             "la":" Qumran. Apocryphon Danielis (4Q243, 4Q244, 4Q245) (aramaice)",
             "en":""
@@ -7807,7 +7809,7 @@
       {
          "id":257,
          "id_clavis":"249",
-         "category":" DANIEL. QUMRAN",
+         "category":"DANIEL. QUMRAN",
          "names":{
             "la":" Qumran. Pseudo-Daniel (4Q246) (aramaice)",
             "en":""
@@ -7837,7 +7839,7 @@
       {
          "id":258,
          "id_clavis":"250",
-         "category":" DANIEL. QUMRAN",
+         "category":"DANIEL. QUMRAN",
          "names":{
             "la":" Qumran. Apocryphon de quatuor regnis (4Q552, 4Q553) (aramaice)",
             "en":""
@@ -7867,7 +7869,7 @@
       {
          "id":259,
          "id_clavis":"251",
-         "category":" DANIEL. QUMRAN",
+         "category":"DANIEL. QUMRAN",
          "names":{
             "la":" Qumran. Oratio Nabonid (4Q242) (aramaice)",
             "en":""
@@ -7897,7 +7899,7 @@
       {
          "id":260,
          "id_clavis":"252",
-         "category":" DANIEL. QUMRAN",
+         "category":"DANIEL. QUMRAN",
          "names":{
             "la":" Qumran. Daniel et Susanna ? (4Q551) (aramaice)",
             "en":""
@@ -7927,7 +7929,7 @@
       {
          "id":261,
          "id_clavis":"253",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Apocalypsis Daniclis gracca",
             "en":""
@@ -7957,7 +7959,7 @@
       {
          "id":262,
          "id_clavis":"254",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Apocalypsis pseudo-Methodii",
             "en":""
@@ -7987,7 +7989,7 @@
       {
          "id":263,
          "id_clavis":"255",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Ultima uisio Danielis (graece)",
             "en":""
@@ -8017,7 +8019,7 @@
       {
          "id":264,
          "id_clavis":"256",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Visio monachi Danielis de septem collibus et de insulin (graecc)",
             "en":""
@@ -8047,7 +8049,7 @@
       {
          "id":265,
          "id_clavis":"257",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Visio Danielis de tempore nouissimo et de fine mundi (graece)",
             "en":""
@@ -8077,7 +8079,7 @@
       {
          "id":266,
          "id_clavis":"258",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Sermo Johannis Chrysostomi e uisionibus Danielis (graece)",
             "en":""
@@ -8107,7 +8109,7 @@
       {
          "id":267,
          "id_clavis":"259",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Visio Danielis de insula Cypri (graece)",
             "en":""
@@ -8137,7 +8139,7 @@
       {
          "id":268,
          "id_clavis":"260",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" De Domino nostro et de fine, auctore iuuene Daniel (syriace)",
             "en":""
@@ -8167,7 +8169,7 @@
       {
          "id":269,
          "id_clavis":"261",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Quartadecima uisio Danielis",
             "en":""
@@ -8197,7 +8199,7 @@
       {
          "id":270,
          "id_clavis":"262",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Apocalypsis Danielis arabica",
             "en":""
@@ -8227,7 +8229,7 @@
       {
          "id":271,
          "id_clavis":"263",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Apocalypsis Danielis persica",
             "en":""
@@ -8257,7 +8259,7 @@
       {
          "id":272,
          "id_clavis":"264",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Septima uisio Danielis (armeniace)",
             "en":""
@@ -8287,7 +8289,7 @@
       {
          "id":273,
          "id_clavis":"265",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Visio Danielis (slauice)",
             "en":""
@@ -8317,7 +8319,7 @@
       {
          "id":274,
          "id_clavis":"266",
-         "category":" DANIEL. APOCALYPSES",
+         "category":"DANIEL. APOCALYPSES",
          "names":{
             "la":" Apocalypsis Sedrach (graece)",
             "en":""
@@ -8347,7 +8349,7 @@
       {
          "id":275,
          "id_clavis":"267",
-         "category":" DANIEL. VARIA",
+         "category":"DANIEL. VARIA",
          "names":{
             "la":" Passio Danielis et trium puerorum ",
             "en":""
@@ -8377,7 +8379,7 @@
       {
          "id":276,
          "id_clavis":"268",
-         "category":" DANIEL. VARIA",
+         "category":"DANIEL. VARIA",
          "names":{
             "la":" De Daniel et puero Caleb (arabice)",
             "en":""
@@ -8407,7 +8409,7 @@
       {
          "id":277,
          "id_clavis":"269",
-         "category":" DANIEL. VARIA",
+         "category":"DANIEL. VARIA",
          "names":{
             "la":" Colloquium Josephi et Nabuchodonosor (arabice)",
             "en":""
@@ -8437,7 +8439,7 @@
       {
          "id":278,
          "id_clavis":"270",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Qumran. Apocryphi de quibus nihil certi proponi potest",
             "en":""
@@ -8467,7 +8469,7 @@
       {
          "id":279,
          "id_clavis":"271",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Apocryphi anonymi",
             "en":""
@@ -8497,7 +8499,7 @@
       {
          "id":280,
          "id_clavis":"272",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Apocalypsis anonyma (fragmentum latinum)",
             "en":""
@@ -8527,7 +8529,7 @@
       {
          "id":281,
          "id_clavis":"273",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Epistula pseudo-Aristeae (graece)",
             "en":""
@@ -8557,7 +8559,7 @@
       {
          "id":282,
          "id_clavis":"274",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Oracula Sibyllina",
             "en":""
@@ -8587,7 +8589,7 @@
       {
          "id":283,
          "id_clavis":"275",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Sibylla Tiburtina",
             "en":""
@@ -8617,7 +8619,7 @@
       {
          "id":284,
          "id_clavis":"276",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Sibylla Maga (latine)",
             "en":""
@@ -8647,7 +8649,7 @@
       {
          "id":285,
          "id_clavis":"277",
-         "category":" VARIA",
+         "category":"VARIA",
          "names":{
             "la":" Palaea historica",
             "en":""
