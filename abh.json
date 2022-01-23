@@ -125,31 +125,58 @@
       },
       {
          "id":2,
-         "id_clavis":"1",
+         "id_clavis":"1.iii",
          "category":"ADAM",
          "names":{
-            "la":"iii Vita Adae et Euae (slauice)",
-            "en":""
+            "la":"Vita Adae et Euae (slauice)",
+            "en":"Life of Adam and Eve (Slavic)"
          },
          "languages":{
             "sl":{
                "recensions":[
                   {
                      "editions":[
-                        ""
+                        "N.S. TICHONRAVOV, Pamjatniki, I, p. 6-15 e cod. Moscou, Trin. S. Serge 794, fol. 311v-323v, saec. xvi.",
+                        "S. NOVAKOVI, Primeri knji,Zevnosti i jezika staroga i srpsko-slovenskoga, Beograd, 1877, p. 419-424 e cod. Beograd, Acad. 147 saec.",
+                        "V. JAGIC, Slavische Beitrage zu den biblischen Apokryphen, I. Die altkirchenslavischen Texte des Adamsbuches, in Denkschriften der kaiserlichen Akademie der Wissenschaften. Philosophisch-historische Classe, 42, I, Wien, 1893, p. 17-40, 83-99, Too-ioi, e cod. Wien, Osterreichische Nationalbibl., slay. 149, fol. 32v-41v, s. xvi uel xvii, cum lectionibus codd. Beograd, Narodna Bibl. 468 (104), s. xiv (codex deperditus) et Sofia, Bibl. Nat. 629 (Coney 433), fol. 12-20, S. xvi (textus, translatio germanica et latina).",
+                        "J. IVANOV, Bogomilski knigi i legendi, Sofia, 1925 (Livres et legendes bogomiles [Aux Sources du catharisme], Paris, 1976), p. 211- 217, e cod. Sofia, Bibl. Nat. 629 (Coney 433), cum lectionibus cod. Sofia, Bibl. Nat. 299, fol. 52v-66, saec. xv."
                      ],
                      "translations":[
                         {
                            "language":{
-                              "en":""
-                           },
-                           "notes":""
+                              "en":"L.S.A. WELLS, in R.H. CHARLES, APOT, 1913, p. 134-136"
+                           }
                         }
+                     ]
+                  },
+                  {
+                     "editions":[
+                        "A. PYPIN, Pamjatniki starinnoj russkoj literatury, III, Saint-Petersbourg, 1862, p. 1-3, 4-7, e cod. Moscou, Mus. Hist. (olim Rumjancov) 358, fol. 185-192, saec. xv/xvi et Moscou, Mus. Hist. (ohm Rumjancov) 38o, fol. 3Is, saec. xvii.",
+                        "N.S. TICHONRAVOV, Pamjatniki, I, p. 1-6, 298-304, e codd. Moscou, Mus. Hist., coll. V. Undol'skij 637, fol. 19V-27, saec. xvii et Moscou, Mus. Hist. (ohm Rumjancov) 358.",
+                        "I.J. PORFIR'EV, Apokrigeskija skazanija o vethozavanyh licah i sobytijah po rukopisjam Soloveckoj biblioteki, in Sbornik Otdeleniya russkogo yazyka i slovesnosti Imperatorskoi Akademii nauk 17 (1877), p. 9o-96, 208-216, e codd. Kazan, Acad. Theol. 925, fol. 1-9, saec. xvii/xviii et Kazan, Acad. Theol. 868, fol. 36-43, saec. XVII/XVIII.",
+                        "I. FRANKO, Apokrifi i legendi z ukraiiis'kih rukopisiv, I, Apokrify starozavitni, L'vov, 1896, p. 19-23, 23-26, e cod. coll. Theodore de Dubovec, fol. 108-116, saec. xvii et ex alio cod. an . 1743.",
+                        "J. IVANOV, Bogomilski knigi i legendi, Sofia, 1925 (Livres et legendes bogomiles [Aux Sources du catharisme], Paris, 1976), p. 209-210, e cod. Lovee (Bulgaria), saec. xvi (excerpta)."
                      ],
-                     "notes":""
+                     "versions":[
+                        {
+                           "editions":"M. GASTER, Chrestomathie roumaine, I, p. 63-65 (= M. GASTER, in Revista pentru istorie, archeologie si filologie 1 [1883], p. 78-8o), e cod. Bucarest, Bibl. Acad. Rom. 469, s. xvii.",
+                           "notes":"Romanian - First Version (Versio rumaena prima)"
+                        },
+                        {
+                           "editions": "Unedited (Inedita)",
+                           "notes": "Romanian - Second Version (Versio rumaena secunda)"
+                        }
+                     ]
                   }
                ],
-               "notes":""
+               "notes": [
+                  "Cf: E. KOZAK, Bibliographische Ubersicht der biblisch-apokryphen Literatur bei den Slaven, in Jahrbiicher fur protestantische Theologie 18 (1892), p. 127-158, praesertim p. 131",
+                  "Cf: E. TURDEANU, Apocryphes bogomiles et apocryphes pseudo -bogomiles, II, in Revue de 1'Histoire des Religions 138 (69) (1950), p. 187- 194", 
+                  "Cf: E. TURDEANU, Apocryphes slaves et roumains, p. 1 -74",
+                  "Nota: Versio slauica continet Paenitentiam Adae et Euae quam in graeco non inuenies: cf. M.E. STONE, A History, p. 30-36",
+                  "Codd: E. TURDEANU, La Vie d'Adam et d'Eve en slave et en roumain, in Apocryphes slaves et roumains, p. 75- 1 44 + 437-438",
+                  "Codd: A.I. JACIMIRSKIJ, Bibliogrageskij obzor apokrifov v juznoslavjanskoj i russkoj pis'mennosti, I. Apokrifi vethozavetnye, Petrograd, 1921, p. 78-81."
+               ]
             }
          }
       },
