@@ -182,31 +182,31 @@
       },
       {
          "id":3,
-         "id_clavis":"1",
+         "id_clavis":"1.iv",
          "category":"ADAM",
          "names":{
-            "la":"iv Paenitentia Adae (armeniace)",
-            "en":""
+            "la":"Paenitentia Adae (armeniace)",
+            "en":"The Repentance of Adam (Armenian)"
          },
          "languages":{
             "arm":{
                "recensions":[
                   {
                      "editions":[
-                        ""
+                        "M.E. STONE, The Penitence of Adam (CSCO 429. Scr. Arm. 13), Leuven, 1981, e codd. Jerusalem, Patr. Arm. 1458, p. 380-43 1 , saec. xvii ; Jerusalem, Patr. Arm. 1370, p. 127-15o, saec. xvii ; Erevan, Matenadaran 3461, fol. 66r-87v, an. 1662."
                      ],
                      "translations":[
                         {
                            "language":{
-                              "en":""
+                              "en":"M.E. STONE, The Penitence of Adam (CSCO 430. Scr. Arm. 14), Leuven, 1981"
                            },
                            "notes":""
                         }
                      ],
-                     "notes":""
+                     "notes":"Concordantia: M.E. STONE, Texts and Concordances of the Armenian Adam Literature. Vol. 1. Genesis 1 -4. Penitence of Adam. Book of Adam (SBL. Early Judaism and Its Literature 12), Atlanta, Georgia, 1996, p. 69-208."
                   }
                ],
-               "notes":""
+               "notes":"M.E. STONE, op. cit. infra (CSCO 43o), p. viii-ix, aestimat opus cuius Decretum Gelasianum § 6, 2, v. 297 ( «Liber qui appellatur Paenitentia Adae, apocryphus »: cf. E. VON DOBSCHUTZ, Das Decretum Gelasianum de libris recipiendis et non recipiendis in kritischem Text [TU 38, 4], Leipzig, 1912, p. 12, 53) mentionem facit, Vita Adae et Euae esse potius quam Paenitentia Adae"
             }
          }
       },
